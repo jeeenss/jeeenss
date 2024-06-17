@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my Github page! This is Yeni, have a background as Data Engineer and currently interested on learning data analysis and data visualization. Aiming to be able to give perspectives, stories of the data, and turn it into some insights. Creating some vizzes in Tableau <a href="https://public.tableau.com/app/profile/jeni.w4472/vizzes">(see my work here)</a> or in python sometimes
+Welcome to my Github page! This is Yeni, experienced on Data Engineering and also interested on learning data analysis and data visualization. Aiming to be able to give perspectives, stories of the data, and turn it into some insights. Creating some vizzes in Tableau <a href="https://public.tableau.com/app/profile/jeni.w4472/vizzes">(see my work here)</a> or in python sometimes
 
 ### Language and tools
 <p align="left">
