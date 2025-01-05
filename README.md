@@ -4,9 +4,9 @@ Welcome to my Github page! This is Yeni, experience on Data Engineering and also
 
 ### Language and tools
 <p align="left">
+  <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-blue?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white&color=%23008399" alt="Microsoft SQL Server">
   <img src="https://img.shields.io/badge/Tableau-red?style=for-the-badge&logo=Tableau&logoColor=white&color=%2391191e" alt="Tableau">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Jupyter-red?style=for-the-badge&logo=Jupyter&logoColor=white&color=%23c2a443" alt="Jupyter">
   <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
 </p>
