@@ -12,8 +12,8 @@ Welcome to my Github page! This is Yeni, experience on Data Engineering and also
   <img src="https://img.shields.io/badge/GIT-blue?style=for-the-badge&logo=GIT&logoColor=white&color=%23014381" alt="Git">
   <img src="https://img.shields.io/badge/Power_BI-yellow?style=for-the-badge&logo=powerbi&logoColor=white&color=%23f0da72" alt="Power BI">
   <img src="https://img.shields.io/badge/dbt-orange?style=for-the-badge&logo=DBT&logoColor=white&color=%23f76546" alt="DBT">
-  <img src="https://img.shields.io/badge/Airflow-gray?style=for-the-badge&logo=apacheairflow&color=%23d23f1d" alt="Apache Airflow">
   <img src="https://img.shields.io/badge/Shell_Script-gray?style=for-the-badge&logo=shellscript&color=%237b766f" alt="Shell Script">
+  <img src="https://img.shields.io/badge/Airflow-gray?style=for-the-badge&logo=apacheairflow&color=%23d23f1d" alt="Apache Airflow">
 </p>
 
 <!--
