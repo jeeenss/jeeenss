@@ -9,6 +9,11 @@ Welcome to my Github page! This is Yeni, experience on Data Engineering and also
   <img src="https://img.shields.io/badge/Tableau-red?style=for-the-badge&logo=Tableau&logoColor=white&color=%2391191e" alt="Tableau">
   <img src="https://img.shields.io/badge/Jupyter-red?style=for-the-badge&logo=Jupyter&logoColor=white&color=%23c2a443" alt="Jupyter">
   <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
+  <img src="https://img.shields.io/badge/GIT-blue?style=for-the-badge&logo=GIT&logoColor=white&color=%23014381" alt="Git">
+  <img src="https://img.shields.io/badge/dbt-orange?style=for-the-badge&logo=DBT&logoColor=white&color=%23f76546" alt="DBT">
+  <img src="https://img.shields.io/badge/Power_BI-yellow?style=for-the-badge&logo=powerbi&logoColor=white&color=%23f0da72" alt="Power BI">
+  <img src="https://img.shields.io/badge/Shell_Script-yellow?style=for-the-badge&logo=shellscript&logoColor=white&color=black" alt="Shell Script">
+  <img src="https://img.shields.io/badge/apache_airflow-white?style=for-the-badge&logo=apacheairflow&logoColor=hex&color=hex" alt="Apache Airflow">
 </p>
 
 <!--
